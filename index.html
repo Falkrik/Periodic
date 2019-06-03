@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Periodic Table</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="indexJS.js"></script>
+	<link rel="stylesheet" type="text/css" href="indexcss.css">
+</head>
+<body onload="Start()">
+	<div id="GameChanger">
+		<a onclick="ChangeGame(1)" class="ChangerButton">Show Name Mode</a>	<!-- Change to IMG-->
+		<a onclick="ChangeGame(2)" class="ChangerButton">Show Number Mode</a>
+		<a onclick="ChangeGame(3)" class="ChangerButton">Show Symbol Mode</a>
+	</div>
+
+	<div id="PlayDiv">
+		<p id="Hint">.</p>
+		<input type="textfield" value="" placeholder="TEST YOUR PERIODIC" id="GameField" onkeypress="UserTyped()">
+
+		<br>
+		<div id="Replay">
+			<div id="Score">
+				<p id="Cor">CORRECT: 0</p>
+				<p id="Incor">INCORRECT: 0</p>
+			</div>
+			<p id="Comment"></p>
+		</div>
+	</div>
+
+</body>
+</html>
