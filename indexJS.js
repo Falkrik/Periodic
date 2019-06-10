@@ -2,7 +2,7 @@
 var nameArray = ["Väte" , "Helium", "Litium", "Beryllium", "Bor", "Kol", "Kväve", "Syre", "Flour", "Neon", "Natrium", "Magnesium", "Aluminium", "Kisel",
 				 "Fosfor", "Svavel", "Klor", "Argon", "Kalium", "Kalcium", "Skandium", "Titan", "Vanadin", "Krom", "Mangan", "Järn", "Kobolt", "Nickel",
 				 "Koppar", "Zink", "Gallium", "Germanium", "Arsenik", "Selen", "Brom", "Krypton", "Rubidium", "Strontium", "Yttrium", "Zirkonium", "Niob",
-				 "Molybden", "Teknetium", "Rutenium", "Rodium", "Palladium", "Silver", "Kadmium", "Indium", "Tenn", "Antimon", "Tellur", "Jod", "Xenon",
+				 "Molybden", "Teknetium", "Rutenium", "Rodium", "Palladiun", "Silver", "Kadmium", "Indium", "Tenn", "Antimon", "Tellur", "Jod", "Xenon",
 				 "Cesium", "Barium", "Lantan", "Cerium", "Praseodym", "Neodym", "Prometium", "Samarium", "Europium", "Gadolinium", "Terbium", "Dysprosium",
 				 "Holmium", "Erbium", "Tulium", "Ytterbium", "Lutetium", "Hafnium", "Tantal", "Volfram", "Rhenium", "Osmium", "Iridium", "Platina", "Guld",
 				 "Kvicksilver", "Tallium", "Bly", "Vismut", "Polonium", "Astat", "Radon", "Francium", "Radium", "Aktinium", "Torium", "Protaktinium",

@@ -1,5 +1,5 @@
 body {
-	background-color: #777;
+	background-color: #484f59;
 	text-align: center;
 }
 
@@ -10,6 +10,10 @@ body {
 .ChangerButton {
 	margin: 10px;
 	width: 100px;
+
+	font-family: Calibri;
+	color: #FFF;
+	font-size: 20px;
 }
 
 #PlayDiv {
@@ -24,9 +28,13 @@ body {
 }
 
 #PlayDiv input {
-	width: 200px;
-	height: 20px;
+	width: 225px;
+	height: 25px;
+	border-radius: 15px;
+	border: none;
 	text-align: center;
+
+	font-size: 15px;
 }
 
 #Replay {
